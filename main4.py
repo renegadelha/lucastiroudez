@@ -4,7 +4,6 @@
 
 salario = float(input('digite seu salario'))
 
-
 for ano in range(2024, 2035, 4):
     novo_salario = round((salario * 13) * 1.045, 2)
     mensal = round(novo_salario / 13, 2)
