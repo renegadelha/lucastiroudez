@@ -1,7 +1,7 @@
 #contar quantas vogais existem no nome da pessoa
 #asldkaçlskd
 
-nome = input('digite o seu nome MODIF')
+nome = input('digite o seu nome MODIF2')
 quantidade = 0
 
 for letra in nome:
